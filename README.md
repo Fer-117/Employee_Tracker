@@ -21,7 +21,7 @@ A command-line application from scratch to manage a company's employee database,
 
 ## Installation
 
-In order to install this application from github you will need to download or clone the repository and run npm install in order to get the necessary dependencies to run this from the console. Otherwise you can see a demo of the working app here [Walkthrough video](#Walkthrough video)
+In order to install this application from github you will need to download or clone the repository and run npm install in order to get the necessary dependencies to run this from the console. Otherwise you can see a demo of the working app here -[Walkthrough video](#Walkthrough video)
 
 ## Usage
 

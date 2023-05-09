@@ -31,7 +31,6 @@ In order to start this app you will need to run "npm start" after you have insta
 
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
-A command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
 ## Contributing
 

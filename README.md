@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-- [Employee_Tracker](#employee_tracker)
+- [Employee\_Tracker](#employee_tracker)
   - [Table of contents](#table-of-contents)
   - [Description](#description)
   - [Installation](#installation)

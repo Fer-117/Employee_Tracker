@@ -1,6 +1,6 @@
 # Employee_Tracker
 
-![License](https://img.shields.io/badge/license--GREEN.svg)
+![License](https://img.shields.io/badge/license-mit-GREEN.svg)
 
 ## Table of contents
 
@@ -27,9 +27,9 @@ In order to install this application from github you will need to download or cl
 
 In order to start this app you will need to run "npm start" after you have installed all dependencies using "npm install". You might have to change the database information such as the the user and password depending on the configuration of your MySql database. Once the app starts running you can choose any of the options that appear on the screen to run queries.
 
-## License
+## mit License
 
-undefined
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
 A command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
@@ -42,6 +42,7 @@ There are no guidelines for contributing at the moment but feel free to reach ou
 There are no tests for this project at the moment.
 
 ## Walkthrough video
+https://drive.google.com/file/d/1-kWQK41yuu2HScjF1mDXZDaVFLeJR5u2/view
 
 ## Questions
 
